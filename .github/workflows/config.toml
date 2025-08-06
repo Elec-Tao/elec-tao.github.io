@@ -1,0 +1,7 @@
+baseURL = "https://elec-tao.github.io/"
+languageCode = "zh-cn"
+title = "Elec-Tao的技术博客"
+theme = "ananke"  # 自动下载的默认主题
+
+[params]
+  description = "分享电子技术与编程心得"
